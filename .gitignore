@@ -2,6 +2,7 @@
 .venv/
 __pycache__/
 *.pyc
+*.egg-info/
 
 # Data and models: reproducible from scripts, never committed
 data/raw/*
